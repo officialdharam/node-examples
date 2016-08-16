@@ -16,13 +16,15 @@ npm start
 Once the application is running, it can be accessed at <a href="http://localhost:3002/">http://localhost:3002/</a>
 
 Follow the guidelines:
-1) Populate database with seed data - <a href="http://localhost:3002/import">http://localhost:3002/import</a>
-2) Fetch all persons - <a href="http://localhost:3002/persons">http://localhost:3002/persons</a>
-3) Fetch person by id - <a href="http://localhost:3002/persons/3">http://localhost:3002/persons/3</a>
+
+1) Populate database with seed data - <a href="http://localhost:3002/import" target="_blank">http://localhost:3002/import</a>
+2) Fetch all persons - <a href="http://localhost:3002/persons" target="_blank">http://localhost:3002/persons</a>
+3) Fetch person by id - <a href="http://localhost:3002/persons/3" target="_blank">http://localhost:3002/persons/3</a>
 
 For Add, Update and Delete - use curl or POSTMAN on chrome
 
 
 <strong>License Information</strong>
+
 Use it as you want, no need to take permissions.
 
