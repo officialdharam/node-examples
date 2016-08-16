@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is the backend service for the happiness index application",
+  "main": "serverExpress.js",
+  "scripts": {
+    "start":"node serverExpress.js"
+  },
+  "author": "officialdharam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mongoose": "^4.5.9"
+  }
+}
